@@ -1,0 +1,6 @@
+# Rencana Mawarizkar
+- Bisa Android (retrofit)
+  ^ Paham recyclerView
+- Banyak mengerjakan projek Android (freelance)
+  ^ Mempelajari situs upwork.com
+  ^ Mempelajari situs freelancer.com
